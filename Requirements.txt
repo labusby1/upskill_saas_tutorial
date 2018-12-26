@@ -3,3 +3,11 @@ memberships
 * user should see a link for pro plan
 * basic plan link should point to register devise sign up form
 * pro plan link should direct to a custom sign up form
+
+
+User Profiles
+*Each user should have only one profile
+*User should see link to new profile form upon signing up
+*User should be anble to create and view their user profile
+*User profile should have a profile picture
+*User should be able to view eachother's profiles

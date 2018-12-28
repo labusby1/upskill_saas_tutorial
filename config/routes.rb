@@ -2,7 +2,7 @@ Rails.application.routes.draw do
   devise_for :users
   root to: 'pages#home'
   
-  #devise_for :users, .... this is from tutorial but I skipped (around strip)
+  #devise_for :users, .... this is from tutorial but I skipped (around stripe)
   
   resources :users do 
     resource :profile
